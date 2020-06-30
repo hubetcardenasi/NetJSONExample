@@ -1,0 +1,10 @@
+C:\Users\Hubet\source\repos\NetJSONExample\NetJSONExample\bin\Debug\NetJSONExample.exe.config
+C:\Users\Hubet\source\repos\NetJSONExample\NetJSONExample\bin\Debug\NetJSONExample.exe
+C:\Users\Hubet\source\repos\NetJSONExample\NetJSONExample\bin\Debug\NetJSONExample.pdb
+C:\Users\Hubet\source\repos\NetJSONExample\NetJSONExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hubet\source\repos\NetJSONExample\NetJSONExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hubet\source\repos\NetJSONExample\NetJSONExample\obj\Debug\NetJSONExample.csprojAssemblyReference.cache
+C:\Users\Hubet\source\repos\NetJSONExample\NetJSONExample\obj\Debug\NetJSONExample.csproj.CoreCompileInputs.cache
+C:\Users\Hubet\source\repos\NetJSONExample\NetJSONExample\obj\Debug\NetJSONExample.csproj.CopyComplete
+C:\Users\Hubet\source\repos\NetJSONExample\NetJSONExample\obj\Debug\NetJSONExample.exe
+C:\Users\Hubet\source\repos\NetJSONExample\NetJSONExample\obj\Debug\NetJSONExample.pdb
